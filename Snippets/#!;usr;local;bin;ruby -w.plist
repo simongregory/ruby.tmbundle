@@ -4,6 +4,7 @@
 <dict>
 	<key>content</key>
 	<string>#!/usr/bin/env ruby${TM_RUBY_SWITCHES: -wKU}
+# encoding: utf-8
 </string>
 	<key>name</key>
 	<string>#!/usr/bin/env ruby -wKU</string>
